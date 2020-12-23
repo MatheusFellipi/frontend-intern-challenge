@@ -1,0 +1,27 @@
+@media(max-width:600px) {
+    .content {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 0 0.1rem 0 0.1rem;
+    }
+    .content-form #forms {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .content-form #forms button {
+        margin-top: 1rem;
+    }
+    .content .top_5 li p span {
+        margin-left: 30rem;
+    }
+    .btnFechar {
+        top: 21rem;
+        right: 1rem;
+        background: transparent;
+        position: absolute;
+    }
+}

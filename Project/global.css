@@ -1,0 +1,12 @@
+:root {
+    --texto-primario: #fff;
+    --triangulo: #fff;
+    --background: #fff;
+    --texto-de-apoio: #777;
+    --linha-e-background: #eee;
+    --placeholder-button: #FF6E14;
+    --placeholder-button-sombra: #ff6e1490;
+    --vermelho: #aa1423;
+    --font-roboto: 'Roboto', sans-serif;
+    --font-roboto-slab: 'Roboto Slab', 300 serif;
+}
